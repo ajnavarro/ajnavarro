@@ -2349,7 +2349,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akrylysov/pogreb</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Embedded key-value store for read-heavy workloads written in Go</div>
@@ -2524,7 +2524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2022, 19:19:54 (timezone Europe/Madrid) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 26 Dec 2022, 20:12:46 (timezone Europe/Madrid) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
