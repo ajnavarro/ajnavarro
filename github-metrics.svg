@@ -2321,7 +2321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>psss/did</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">What did you do last week, month, year?</div>
@@ -2549,7 +2549,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2022, 10:14:47 (timezone Europe/Madrid) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 31 Dec 2022, 11:16:16 (timezone Europe/Madrid) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
