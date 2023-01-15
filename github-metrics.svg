@@ -2279,7 +2279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oklog/ulid</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universally Unique Lexicographically Sortable Identifier (ULID) in Go</div>
@@ -2332,7 +2332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knadh/koanf</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.</div>
@@ -2560,7 +2560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jan 2023, 11:16:47 (timezone Europe/Madrid) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 15 Jan 2023, 12:13:14 (timezone Europe/Madrid) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
