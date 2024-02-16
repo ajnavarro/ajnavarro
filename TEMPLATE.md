@@ -1,27 +1,17 @@
-Account age: **{{ ACCOUNT_AGE }}** years
+# 💫 About Me:
 
-Pushed **{{ COMMITS }}** commits
+Hi 👋, I'm Antonio!
 
-Opened **{{ ISSUES }}** issues
+As an experienced software engineer, I am passionate about working with cutting-edge technologies and pushing the boundaries of what’s possible. Currently, my focus is on web3, distributed, and decentralized systems, where I am constantly exploring new approaches and techniques to build the next generation of decentralized applications.
 
-Submitted **{{ PULL_REQUESTS }}** pull requests
+In addition to my work in web3, I also have a background in Big Data and data processing, where I have built and managed complex systems for processing and analyzing large datasets. With a deep understanding of data pipelines, distributed computing, and scalable architecture, I am confident designing and implementing robust data processing solutions.
 
-Reviewed **{{ CODE_REVIEWS }}** pull requests
+I am always looking for new challenges to tackle and exciting opportunities to grow my skills.
 
-Received **{{ STARS }}** stars
+Outside of work, I am always learning and have a variety of hobbies. Currently, I am exploring synth music generation and built my own e-bike. I also enjoy sports, having played Rolled Hockey competitively. I am an outdoor enthusiast and love to hike, exploring every corner of Granada’s beautiful landscapes.
 
-Own **{{ REPOSITORIES }}** repositories
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ajnavarro&limit=15&theme=onedark&combine_all_yearly_contributions=true)
 
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
-
-Top 8 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
-
-Top 4 most used languages across your repositories:
-
-{{ LANGUAGE_TEMPLATE_START:max=4 }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+---
+[![](https://visitcount.itsvg.in/api?id=ajnavarro&icon=0&color=0)](https://visitcount.itsvg.in)
