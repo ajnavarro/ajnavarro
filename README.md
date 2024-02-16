@@ -10,7 +10,11 @@ I am always looking for new challenges to tackle and exciting opportunities to g
 
 Outside of work, I am always learning and have a variety of hobbies. Currently, I am exploring synth music generation and built my own e-bike. I also enjoy sports, having played Rolled Hockey competitively. I am an outdoor enthusiast and love to hike, exploring every corner of Granada’s beautiful landscapes.
 
+- 📄 Resume: [ajnavarro.com](https://ajnavarro.com)
+- 📐 LinkedIn: [linkedin.com/in/ajnavarro](https://www.linkedin.com/in/ajnavarro/)
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=ajnavarro&limit=15&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
