@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-Hi 👋, I'm Antonio!
+# Hi 👋, I'm Antonio!
 
 As an experienced software engineer, I am passionate about working with cutting-edge technologies and pushing the boundaries of what’s possible. Currently, my focus is on web3, distributed, and decentralized systems, where I am constantly exploring new approaches and techniques to build the next generation of decentralized applications.
 
