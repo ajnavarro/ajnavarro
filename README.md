@@ -1,32 +1,17 @@
-Account age: **12** years
+# 💫 About Me:
 
-Pushed **3379** commits
+Hi 👋, I'm Antonio!
 
-Opened **494** issues
+As an experienced software engineer, I am passionate about working with cutting-edge technologies and pushing the boundaries of what’s possible. Currently, my focus is on web3, distributed, and decentralized systems, where I am constantly exploring new approaches and techniques to build the next generation of decentralized applications.
 
-Submitted **740** pull requests
+In addition to my work in web3, I also have a background in Big Data and data processing, where I have built and managed complex systems for processing and analyzing large datasets. With a deep understanding of data pipelines, distributed computing, and scalable architecture, I am confident designing and implementing robust data processing solutions.
 
-Reviewed **1618** pull requests
+I am always looking for new challenges to tackle and exciting opportunities to grow my skills.
 
-Received **29** stars
+Outside of work, I am always learning and have a variety of hobbies. Currently, I am exploring synth music generation and built my own e-bike. I also enjoy sports, having played Rolled Hockey competitively. I am an outdoor enthusiast and love to hike, exploring every corner of Granada’s beautiful landscapes.
 
-Own **38** repositories
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ajnavarro&limit=15&theme=onedark&combine_all_yearly_contributions=true)
 
-Contributed to **23** public repositories
-
-Top 8 most used languages across your repositories:
-
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B183.4%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B112.4%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.7%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B10.5%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.4%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B10.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
-
-Top 4 most used languages across your repositories:
-
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B183.4%25)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B112.4%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.3%25)
+---
+[![](https://visitcount.itsvg.in/api?id=ajnavarro&icon=0&color=0)](https://visitcount.itsvg.in)
