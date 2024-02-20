@@ -17,3 +17,4 @@ Outside of work, I am always learning and have a variety of hobbies. Currently, 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ajnavarro&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://hit.yhype.me/github/profile?user_id=1196465)
